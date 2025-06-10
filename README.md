@@ -115,6 +115,7 @@
 |**2024-04-15**|**in2IN: Leveraging individual Information to Generate Human INteractions**|Pablo Ruiz Ponce et.al.|[2404.09988](http://arxiv.org/abs/2404.09988)|**[link](https://github.com/pabloruizponce/in2IN)**|
 |**2024-04-01**|**Large Motion Model for Unified Multi-Modal Motion Generation**|Mingyuan Zhang et.al.|[2404.01284](http://arxiv.org/abs/2404.01284)|null|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
+|**2024-04-01**|**BAMM: Bidirectional Autoregressive Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2403.19435](http://arxiv.org/abs/2403.19435)|**[link](https://github.com/exitudio/BAMM)**|
 |**2024-03-28**|**RecDiffusion: Rectangling for Image Stitching with Diffusion Models**|Tianhao Zhou et.al.|[2403.19164](http://arxiv.org/abs/2403.19164)|**[link](https://github.com/lhaippp/recdiffusion)**|
 |**2024-03-26**|**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**|Zan Wang et.al.|[2403.18036](http://arxiv.org/abs/2403.18036)|**[link](https://github.com/afford-motion/afford-motion)**|
 |**2024-09-14**|**Contact-aware Human Motion Generation from Textual Descriptions**|Sihan Ma et.al.|[2403.15709](http://arxiv.org/abs/2403.15709)|null|
@@ -187,6 +188,7 @@
 |**2021-04-07**|**Graph-based Normalizing Flow for Human Motion Generation and Reconstruction**|Wenjie Yin et.al.|[2104.03020](http://arxiv.org/abs/2104.03020)|null|
 |**2021-11-24**|**TrajeVAE: Controllable Human Motion Generation from Trajectories**|Kacper Kania et.al.|[2104.00351](http://arxiv.org/abs/2104.00351)|null|
 |**2021-04-01**|**Radar Human Motion Classification Using Multi-Antenna System**|Patrick A. Schooley et.al.|[2104.00217](http://arxiv.org/abs/2104.00217)|null|
+|**2020-12-10**|**Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking**|Fatemeh Saleh et.al.|[2012.02337](http://arxiv.org/abs/2012.02337)|null|
 |**2020-08-25**|**Dynamic Future Net: Diversified Human Motion Generation**|Wenheng Chen et.al.|[2009.05109](http://arxiv.org/abs/2009.05109)|null|
 |**2021-02-12**|**Visual Navigation Among Humans with Optimal Control as a Supervisor**|Varun Tolani et.al.|[2003.09354](http://arxiv.org/abs/2003.09354)|null|
 |**2019-12-21**|**Learning Diverse Stochastic Human-Action Generators by Learning Smooth Latent Transitions**|Zhenyi Wang et.al.|[1912.10150](http://arxiv.org/abs/1912.10150)|**[link](https://github.com/zheshiyige/Learning-Diverse-Stochastic-Human-Action-Generators-by-Learning-Smooth-Latent-Transitions)**|
