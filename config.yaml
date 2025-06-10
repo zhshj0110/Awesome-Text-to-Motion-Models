@@ -23,4 +23,4 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Text-to-Motion": 
-        filters: ["human motion generation", "text-to-motion", "motion diffusion model"]
+        filters: ["human motion generation", "text-to-motion", "motion diffusion model", "autoregressive motion model"]
