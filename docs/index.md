@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text-to-Motion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data**|Ke Fan et.al.|[2507.07095](http://arxiv.org/abs/2507.07095)|null|
+|**2025-07-09**|**MOST: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction**|Yin Wang et.al.|[2507.06590](http://arxiv.org/abs/2507.06590)|null|
+|**2025-07-06**|**Grounded Gesture Generation: Language, Motion, and Space**|Anna Deichler et.al.|[2507.04522](http://arxiv.org/abs/2507.04522)|null|
 |**2025-06-27**|**Generating Attribute-Aware Human Motions from Textual Prompt**|Xinghan Wang et.al.|[2506.21912](http://arxiv.org/abs/2506.21912)|null|
 |**2025-06-16**|**Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation**|Runqi Ouyang et.al.|[2506.10353](http://arxiv.org/abs/2506.10353)|null|
 |**2025-06-09**|**SILK: Smooth InterpoLation frameworK for motion in-betweening A Simplified Computational Approach**|Elly Akhoundi et.al.|[2506.09075](http://arxiv.org/abs/2506.09075)|null|
@@ -63,7 +66,7 @@ layout: default
 |**2025-04-28**|**Lifting Motion to the 3D World via 2D Diffusion**|Jiaman Li et.al.|[2411.18808](http://arxiv.org/abs/2411.18808)|null|
 |**2024-11-27**|**InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation**|Wenjie Zhuo et.al.|[2411.18303](http://arxiv.org/abs/2411.18303)|null|
 |**2024-11-26**|**FTMoMamba: Motion Generation with Frequency and Text State Space Models**|Chengjian Li et.al.|[2411.17532](http://arxiv.org/abs/2411.17532)|null|
-|**2024-11-25**|**Rethinking Diffusion for Text-Driven Human Motion Generation**|Zichong Meng et.al.|[2411.16575](http://arxiv.org/abs/2411.16575)|null|
+|**2025-07-08**|**Rethinking Diffusion for Text-Driven Human Motion Generation: Redundant Representations, Evaluation, and Masked Autoregression**|Zichong Meng et.al.|[2411.16575](http://arxiv.org/abs/2411.16575)|null|
 |**2024-12-02**|**Morph: A Motion-free Physics Optimization Framework for Human Motion Generation**|Zhuo Li et.al.|[2411.14951](http://arxiv.org/abs/2411.14951)|null|
 |**2024-11-15**|**Motion Diffusion-Guided 3D Global HMR from a Dynamic Camera**|Jaewoo Heo et.al.|[2411.10582](http://arxiv.org/abs/2411.10582)|null|
 |**2025-04-16**|**KMM: Key Frame Mask Mamba for Extended Motion Generation**|Zeyu Zhang et.al.|[2411.06481](http://arxiv.org/abs/2411.06481)|**[link](https://github.com/steve-zeyu-zhang/KMM)**|
@@ -71,7 +74,7 @@ layout: default
 |**2025-05-01**|**MotionGlot: A Multi-Embodied Motion Generation Model**|Sudarshan Harithas et.al.|[2410.16623](http://arxiv.org/abs/2410.16623)|null|
 |**2024-10-17**|**MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations**|Liang Xu et.al.|[2410.13790](http://arxiv.org/abs/2410.13790)|**[link](https://github.com/liangxuy/motionbank)**|
 |**2025-02-13**|**Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes**|Jianqi Chen et.al.|[2410.10790](http://arxiv.org/abs/2410.10790)|**[link](https://github.com/windvchen/sitcom-crafter)**|
-|**2024-10-14**|**ControlMM: Controllable Masked Motion Generation**|Ekkasit Pinyoanuntapong et.al.|[2410.10780](http://arxiv.org/abs/2410.10780)|null|
+|**2025-07-05**|**Spatio-Temporal Control for Masked Motion Synthesis**|Ekkasit Pinyoanuntapong et.al.|[2410.10780](http://arxiv.org/abs/2410.10780)|null|
 |**2024-10-15**|**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model**|Gaoge Han et.al.|[2410.07296](http://arxiv.org/abs/2410.07296)|null|
 |**2025-03-12**|**A Unified Framework for Motion Reasoning and Generation in Human Interaction**|Jeongeun Park et.al.|[2410.05628](http://arxiv.org/abs/2410.05628)|null|
 |**2025-04-14**|**DartControl: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**|Kaifeng Zhao et.al.|[2410.05260](http://arxiv.org/abs/2410.05260)|null|
