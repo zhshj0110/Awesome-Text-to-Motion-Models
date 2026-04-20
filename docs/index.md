@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text-to-Motion
