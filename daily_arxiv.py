@@ -124,10 +124,11 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]
         paper_url = arxiv_url + 'abs/' + paper_key
 
+        # source code link (best-effort; paperswithcode API is deprecated and
+        # may fail for every paper. A failed code lookup must NOT drop the paper.)
+        repo_url = None
         try:
-            # source code link
             r = requests.get(code_url).json()
-            repo_url = None
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
             # TODO: not found, two more chances
@@ -135,27 +136,27 @@ def get_daily_papers(topic,query="slam", max_results=2):
             #    repo_url = get_code_link(paper_title)
             #    if repo_url is None:
             #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
-
         except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+            logging.error(f"code link lookup failed: {e} with id: {paper_key}")
+
+        if repo_url is not None:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+
+        else:
+            content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                   update_time,paper_title,paper_first_author,paper_key,paper_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                   update_time,paper_title,paper_first_author,paper_url,paper_url)
+
+        # TODO: select useful comments
+        comments = None
+        if comments != None:
+            content_to_web[paper_key] += f", {comments}\n"
+        else:
+            content_to_web[paper_key] += f"\n"
 
     data = {topic:content}
     data_web = {topic:content_to_web}
