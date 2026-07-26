@@ -1,4 +1,4 @@
-## Updated on 2026.07.21
+## Updated on 2026.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-23**|**GraphVid: Interactive Graph-Controllable Video Generation**|Vedant Shah et.al.|[2607.21580](http://arxiv.org/abs/2607.21580)|null|
+|**2026-07-23**|**Local structure at the maximum and sharp persistence asymptotics of rough fractional Brownian motion**|Christian Mönch et.al.|[2607.21374](http://arxiv.org/abs/2607.21374)|null|
+|**2026-07-22**|**The Giant Hippocampus: From Structural Monoculture to a System of Systems**|Jaeho Seol et.al.|[2607.19973](http://arxiv.org/abs/2607.19973)|null|
 |**2026-07-20**|**Keyframe-Anchored Identity Preservation for Sequential-Action Video Generation**|Zhenjie Liu et.al.|[2607.17985](http://arxiv.org/abs/2607.17985)|null|
 |**2026-07-19**|**From Perception to Assistance: Open-Vocabulary Shared Autonomy for Robotic Manipulation**|Murilo Vinicius da Silva et.al.|[2607.17323](http://arxiv.org/abs/2607.17323)|null|
 |**2026-07-19**|**The generator is the tracker: Multi-object tracking by painting persistent identity colours**|Haiyu Yang et.al.|[2607.17120](http://arxiv.org/abs/2607.17120)|null|
@@ -136,7 +139,7 @@
 |**2026-05-28**|**Dex2HOI: Dexterous Bimanual Two-Object Interaction Generation**|Chrysa Pratikaki et.al.|[2605.30444](http://arxiv.org/abs/2605.30444)|null|
 |**2026-05-28**|**Archon: A Unified Multimodal Model for Holistic Digital Human Generation**|Chong Bao et.al.|[2605.30311](http://arxiv.org/abs/2605.30311)|null|
 |**2026-05-28**|**PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions**|Omer Benishu et.al.|[2605.30268](http://arxiv.org/abs/2605.30268)|null|
-|**2026-05-28**|**SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation**|Zhuguanyu Wu et.al.|[2605.30116](http://arxiv.org/abs/2605.30116)|null|
+|**2026-07-22**|**SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation**|Zhuguanyu Wu et.al.|[2605.30116](http://arxiv.org/abs/2605.30116)|null|
 |**2026-06-11**|**Plan, Don't Pose: Long Composite Motion Generation with Text-Aligned BFM**|Nikolay Shvetsov et.al.|[2605.29906](http://arxiv.org/abs/2605.29906)|null|
 |**2026-05-31**|**AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling**|Yiheng Li et.al.|[2605.29488](http://arxiv.org/abs/2605.29488)|null|
 |**2026-06-03**|**SalsaAgent: A multimodal embodied language model for interactive dance generation**|Payam Jome Yazdian et.al.|[2605.29219](http://arxiv.org/abs/2605.29219)|null|
@@ -194,7 +197,7 @@
 |**2026-05-13**|**Coordinating Multiple Conditions for Trajectory-Controlled Human Motion Generation**|Deli Cai et.al.|[2605.13729](http://arxiv.org/abs/2605.13729)|null|
 |**2026-05-13**|**Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation**|Junhyuk Jeon et.al.|[2605.13333](http://arxiv.org/abs/2605.13333)|null|
 |**2026-05-12**|**Quieting the Cobwebs: Browser Interaction for Visual Floaters**|Kenneth Ge et.al.|[2605.12739](http://arxiv.org/abs/2605.12739)|null|
-|**2026-05-12**|**ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Generation**|Inwoo Hwang et.al.|[2605.11704](http://arxiv.org/abs/2605.11704)|null|
+|**2026-07-21**|**ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Generation**|Inwoo Hwang et.al.|[2605.11704](http://arxiv.org/abs/2605.11704)|null|
 |**2026-05-12**|**Dynamic Full-body Motion Agent with Object Interaction via Blending Pre-trained Modular Controllers**|Sanghyeok Nam et.al.|[2605.11369](http://arxiv.org/abs/2605.11369)|null|
 |**2026-05-15**|**An Elastic Shape Variational Autoencoder for Skeleton Pose Trajectories**|Arafat Rahman et.al.|[2605.09231](http://arxiv.org/abs/2605.09231)|null|
 |**2026-05-08**|**Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization**|Hanchao Liu et.al.|[2605.08054](http://arxiv.org/abs/2605.08054)|null|
@@ -1207,7 +1210,7 @@
 |**2021-02-12**|**Visual Navigation Among Humans with Optimal Control as a Supervisor**|Varun Tolani et.al.|[2003.09354](http://arxiv.org/abs/2003.09354)|null|
 |**2019-12-21**|**Learning Diverse Stochastic Human-Action Generators by Learning Smooth Latent Transitions**|Zhenyi Wang et.al.|[1912.10150](http://arxiv.org/abs/1912.10150)|**[link](https://github.com/zheshiyige/Learning-Diverse-Stochastic-Human-Action-Generators-by-Learning-Smooth-Latent-Transitions)**|
 
-<p align=right>(<a href=#updated-on-20260721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260726>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
