@@ -1,4 +1,4 @@
-## Updated on 2026.10.12
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**Convective Oscillations of Cosmic Rays**|Yiran Zhang et.al.|[2610.21863](http://arxiv.org/abs/2610.21863)|null|
+|**2026-10-15**|**Edit4D: Editable 4D Scene Generation with Textual Control**|Chanwoo Kim et.al.|[2610.21668](http://arxiv.org/abs/2610.21668)|null|
+|**2026-10-15**|**TRACE: Typed Reference-Aware Conversational Editing for Humanoid Motion Diffusion**|Zejian Kang et.al.|[2610.21515](http://arxiv.org/abs/2610.21515)|null|
+|**2026-10-15**|**LAO+: Focused, Multi-Replica Accelerated Orthogonal Sampling for Robust Binding Free Energy Predictions**|Narjes Ansari et.al.|[2610.20436](http://arxiv.org/abs/2610.20436)|null|
+|**2026-10-13**|**Kandinsky S2V 1.0: Audio-Driven Avatar Video Generation**|Nikolay Semenov et.al.|[2610.19290](http://arxiv.org/abs/2610.19290)|null|
+|**2026-10-13**|**LongForcing: Scaling Temporal Manifold Matching for Long-Horizon World Rollout**|Ziyu Zhu et.al.|[2610.18289](http://arxiv.org/abs/2610.18289)|null|
+|**2026-10-13**|**Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**|Shikun Ban et.al.|[2610.17750](http://arxiv.org/abs/2610.17750)|null|
+|**2026-10-12**|**MiMaAlign: Hierarchical Micro-Macro Alignment for Physically Plausible Video Generation**|Yansong Liu et.al.|[2610.16482](http://arxiv.org/abs/2610.16482)|null|
+|**2026-10-12**|**MFlowHOI: Whole-Body Human-Object Interaction Generation via Part-Aware MeanFlow**|Qiang He et.al.|[2610.16252](http://arxiv.org/abs/2610.16252)|null|
+|**2026-10-12**|**FlowVLA: Enabling World Dynamics Understanding through Pluggable 3D Flow Learning**|Junhyeong Go et.al.|[2610.16160](http://arxiv.org/abs/2610.16160)|null|
+|**2026-10-12**|**ProMoDD: Dataset Distillation for 3D Human Motion via Prototype-Conditioned Diffusion Models**|Yijin Wei et.al.|[2610.16134](http://arxiv.org/abs/2610.16134)|null|
+|**2026-10-10**|**MotionAnimator: Semantic-to-Motion Reasoning for Animating Part-Structured 3D Assets in XR**|Jianan Jiang et.al.|[2610.15074](http://arxiv.org/abs/2610.15074)|null|
+|**2026-10-10**|**FreeCHROMA: Generative Chroma Keying from Unaligned Background References**|Jiayi Wu et.al.|[2610.14445](http://arxiv.org/abs/2610.14445)|null|
+|**2026-10-09**|**Image Diffusion Models Are Good 3D Human Motion Generators**|Siyuan Yang et.al.|[2610.14254](http://arxiv.org/abs/2610.14254)|null|
+|**2026-10-09**|**BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation**|Fabio Hübel et.al.|[2610.13862](http://arxiv.org/abs/2610.13862)|null|
+|**2026-10-09**|**SmolWAM: A Latent World-Action Model for Robotic Manipulation on Edge Devices**|Timi Owolabi et.al.|[2610.13740](http://arxiv.org/abs/2610.13740)|null|
+|**2026-10-09**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|null|
+|**2026-10-09**|**TextVBench: Evaluating Text Rendering and Preservation in Video Generation**|Ruiqiang Zhang et.al.|[2610.13412](http://arxiv.org/abs/2610.13412)|null|
+|**2026-10-09**|**PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation**|Chuxuan Huang et.al.|[2610.13373](http://arxiv.org/abs/2610.13373)|null|
+|**2026-10-09**|**Sonic-AMG: Streaming Human Motion Generation from Spatial Audio**|Jingcheng Ni et.al.|[2610.13300](http://arxiv.org/abs/2610.13300)|null|
+|**2026-10-12**|**Golden Anchor for Video Generation**|Jinyuan Xu et.al.|[2610.13217](http://arxiv.org/abs/2610.13217)|null|
+|**2026-09-21**|**The Meaning and Facets of `Symmetry' in Physics**|Domenico Giulini et.al.|[2610.12488](http://arxiv.org/abs/2610.12488)|null|
 |**2026-10-08**|**CSF: Contextual Safety Filtering for Motion Generators**|Lizhi Yang et.al.|[2610.12467](http://arxiv.org/abs/2610.12467)|null|
 |**2026-10-08**|**Controllable Exaggeration for Generative Motion Models via Training-Time Adaptation and Inference-Time Guidance**|Amirhossein Zamani et.al.|[2610.12316](http://arxiv.org/abs/2610.12316)|null|
 |**2026-10-08**|**Breaking the Group Size Barrier: Parameter-Efficient Group Dance Generation with Chain-of-Dancers**|Jing Xu et.al.|[2610.11237](http://arxiv.org/abs/2610.11237)|null|
@@ -43,7 +65,7 @@
 |**2026-10-01**|**VTR-Bench: A Systematic Benchmark for Evaluating Visual Text Rendering in Video Generation**|Yu Huang et.al.|[2610.01499](http://arxiv.org/abs/2610.01499)|null|
 |**2026-09-30**|**Align Then Reason: A Multimodal Lip-Sync Judge for Dubbing**|Rui Liu et.al.|[2610.00825](http://arxiv.org/abs/2610.00825)|null|
 |**2026-09-30**|**Video Generation Models: A Survey of Post-Training and Alignment**|Chaoyu Li et.al.|[2610.00812](http://arxiv.org/abs/2610.00812)|null|
-|**2026-09-30**|**ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing**|Xinghao Chen et.al.|[2609.40356](http://arxiv.org/abs/2609.40356)|null|
+|**2026-10-11**|**ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing**|Xinghao Chen et.al.|[2609.40356](http://arxiv.org/abs/2609.40356)|null|
 |**2026-09-30**|**Spatial-Temporal Multi-scale Network for Screen Content Video Quality Enhancement**|Ziyin Huang et.al.|[2609.39894](http://arxiv.org/abs/2609.39894)|null|
 |**2026-09-30**|**ECHO-G: Embodied Co-speech Humanoid mOtion Generation**|Yizhao Li et.al.|[2609.39575](http://arxiv.org/abs/2609.39575)|null|
 |**2026-09-30**|**BadAction: Backdoor Attacks on Interactive Video Generation via Action-Guided Triggers**|Zhihang Wu et.al.|[2609.39047](http://arxiv.org/abs/2609.39047)|null|
@@ -53,7 +75,7 @@
 |**2026-09-29**|**Comparing Utility of Inertial, Occupancy, Semantic, and Intent Information in Human Motion Prediction During Daily Tasks**|Max Burns et.al.|[2609.37971](http://arxiv.org/abs/2609.37971)|null|
 |**2026-09-29**|**Endothermic Dark Matter at LZ from a Decaying Parent**|Yongsoo Jho et.al.|[2609.37545](http://arxiv.org/abs/2609.37545)|null|
 |**2026-09-26**|**MotionMaestro: Masked Tokenization for Unified Motion Generation**|Yun Chen et.al.|[2609.37495](http://arxiv.org/abs/2609.37495)|null|
-|**2026-10-05**|**AESOP: Asymmetric Human-Camera Generation with Translation-Intensity Control**|Jingzhong Lin et.al.|[2609.37229](http://arxiv.org/abs/2609.37229)|null|
+|**2026-10-09**|**AESOP: Asymmetric Human-Camera Generation with Translation-Intensity Control**|Jingzhong Lin et.al.|[2609.37229](http://arxiv.org/abs/2609.37229)|null|
 |**2026-09-29**|**MotionInsight: Diagnosing Object Motion Deficiencies in Generated Videos**|Jiahao Zhan et.al.|[2609.37030](http://arxiv.org/abs/2609.37030)|null|
 |**2026-09-30**|**World2Motion: Turning Video World Models into 3D Human Motion Generators**|Fangyuan Tu et.al.|[2609.37004](http://arxiv.org/abs/2609.37004)|null|
 |**2026-09-29**|**Motion Concept Unlearning in Video Diffusion Models**|Ping Liu et.al.|[2609.36832](http://arxiv.org/abs/2609.36832)|null|
@@ -72,7 +94,7 @@
 |**2026-09-26**|**Can Motion-Language Models Ground Structure? STRIDE for Evaluating the Evaluators**|Lixing Tan et.al.|[2609.32462](http://arxiv.org/abs/2609.32462)|null|
 |**2026-09-26**|**RoboSTAR: Next-Scale Autoregressive Sign Language Translation for Humanoid Robots**|Yujia Zeng et.al.|[2609.32250](http://arxiv.org/abs/2609.32250)|null|
 |**2026-09-25**|**CoralPlan: Observation Skill Selection and Execution for Underwater Robotic Inspection**|Yuer Gao et.al.|[2609.31211](http://arxiv.org/abs/2609.31211)|null|
-|**2026-09-25**|**Timo: $\textbf{T}$aming Mult$\textbf{i}$modal Diffusion Transformer for Human $\textbf{Mo}$ tion Generation**|Zhao Wang et.al.|[2609.30761](http://arxiv.org/abs/2609.30761)|null|
+|**2026-10-10**|**Timo: Taming Multimodal Diffusion Transformers for Human Motion Generation**|Zhao Wang et.al.|[2609.30761](http://arxiv.org/abs/2609.30761)|null|
 |**2026-10-05**|**What Becomes of the Antiferromagnetic String When Long Range Neel Order Is Lost? Exact Results**|Yuri DiMaggio et.al.|[2609.30346](http://arxiv.org/abs/2609.30346)|null|
 |**2026-09-23**|**Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy**|Tara Sadjadpour et.al.|[2609.28660](http://arxiv.org/abs/2609.28660)|null|
 |**2026-09-23**|**Amplify: A Lightweight Library for Reproducible Nonlinear Programming Problems in Robotics**|Nelson Rosa et.al.|[2609.28377](http://arxiv.org/abs/2609.28377)|null|
@@ -131,7 +153,7 @@
 |**2026-09-07**|**Fine-Grained Visual Preprocessing and Dual-Stream Temporal Modeling for Multimodal Sentiment Analysis on Social Media**|Su Li et.al.|[2609.07010](http://arxiv.org/abs/2609.07010)|null|
 |**2026-09-06**|**NOVA: Normal-Side Modeling for Training-Free Zero-Shot Video Anomaly Detection**|Wei-Chih Yin et.al.|[2609.06360](http://arxiv.org/abs/2609.06360)|null|
 |**2026-09-05**|**VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification**|Yixin Wan et.al.|[2609.06245](http://arxiv.org/abs/2609.06245)|null|
-|**2026-09-04**|**SeRV: Semantic-Aligned Residual Vector Quantization for American Sign Language Generation**|Hongyu Wu et.al.|[2609.05742](http://arxiv.org/abs/2609.05742)|null|
+|**2026-10-13**|**SeRV: Semantic-Aligned Residual Vector Quantization for American Sign Language Generation**|Hongyu Wu et.al.|[2609.05742](http://arxiv.org/abs/2609.05742)|null|
 |**2026-09-01**|**"It's getting away from us!" - Black Hole Horizons and Relative Speed**|Markus Pössel et.al.|[2609.05524](http://arxiv.org/abs/2609.05524)|null|
 |**2026-09-04**|**UniMate: One Unified Model to Animate Diverse Skeletons**|Linzhan Mou et.al.|[2609.05415](http://arxiv.org/abs/2609.05415)|null|
 |**2026-09-13**|**ReaDiT Guidance: Control for Image and Video Generation using Diffusion Transformer Features**|Jay Mahajan et.al.|[2609.04649](http://arxiv.org/abs/2609.04649)|null|
@@ -148,7 +170,7 @@
 |**2026-08-27**|**SNF-Bench: Separating Static Drift from Natural Flow in Long-Horizon Fixed-Camera Video Generation**|Matiur Rahman Minar et.al.|[2608.28694](http://arxiv.org/abs/2608.28694)|null|
 |**2026-08-28**|**AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction**|Yafei Zhang et.al.|[2608.28491](http://arxiv.org/abs/2608.28491)|null|
 |**2026-09-21**|**PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots**|Yan Pan et.al.|[2608.28213](http://arxiv.org/abs/2608.28213)|null|
-|**2026-08-28**|**Plan Along the Way: Event-Triggered Foundation-Model Planning for TAMP Execution in Partially Observable Manipulation**|Puru Ojha et.al.|[2608.28075](http://arxiv.org/abs/2608.28075)|null|
+|**2026-10-10**|**Deciding If, When, and Where to Replan for Robust Manipulation**|Narendhiran Vijayakumar et.al.|[2608.28075](http://arxiv.org/abs/2608.28075)|null|
 |**2026-09-09**|**A geometric resolution limit from vacuum entanglement: Topological Structure and Particle-Wave Asymmetry**|Isbelia Martin et.al.|[2608.27640](http://arxiv.org/abs/2608.27640)|null|
 |**2026-08-27**|**HUG-VIS: A Multimodal Benchmark for Human-centered Understanding and Generation in Visual Intelligence**|Fei Ma et.al.|[2608.26517](http://arxiv.org/abs/2608.26517)|null|
 |**2026-08-31**|**SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting**|Eunjee Choi et.al.|[2608.25493](http://arxiv.org/abs/2608.25493)|null|
@@ -188,7 +210,7 @@
 |**2026-08-11**|**The GENEA Challenge 2026: A Large-Scale Disentangled Evaluation of Speech-Driven Gesture Generation on the Seamless Interaction Dataset**|Rajmund Nagy et.al.|[2608.10839](http://arxiv.org/abs/2608.10839)|null|
 |**2026-09-03**|**Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence**|Haoyu Zhang et.al.|[2608.10720](http://arxiv.org/abs/2608.10720)|null|
 |**2026-08-11**|**The Signal Rail: A Deterministic Motion Grammar for Communicating Conversational Agent State in Terminal Interfaces**|Matteo Grella et.al.|[2608.10689](http://arxiv.org/abs/2608.10689)|null|
-|**2026-08-15**|**MAD-HOI: Masked Autoregressive Diffusion for Generating Articulated Hand Object Interactions from Text**|Ananya Bal et.al.|[2608.10162](http://arxiv.org/abs/2608.10162)|null|
+|**2026-10-11**|**MAD-HOI: Masked Autoregressive Diffusion for Generating Articulated Hand Object Interactions from Text**|Ananya Bal et.al.|[2608.10162](http://arxiv.org/abs/2608.10162)|null|
 |**2026-08-10**|**Illusion or Integrity? Geometrical Consistency Metric for AIGC Video Quality Evaluation**|Yifei Xue et.al.|[2608.09594](http://arxiv.org/abs/2608.09594)|null|
 |**2026-08-10**|**Agreement-Based Audio-Visual Segmentation:Champion Report for the MeViS-Audio Track in the 8th LSVOS Challenge**|Yiwen Ren et.al.|[2608.09475](http://arxiv.org/abs/2608.09475)|null|
 |**2026-08-11**|**Sekai2: From World Exploration to Interactive World Modeling**|Kang He et.al.|[2608.09449](http://arxiv.org/abs/2608.09449)|null|
@@ -343,7 +365,7 @@
 |**2026-06-03**|**Attention Consistent Longitudinal Medical Visual Question Answering Guided by Vision Foundation Models**|Jialin Wu et.al.|[2606.06534](http://arxiv.org/abs/2606.06534)|null|
 |**2026-06-04**|**Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators**|Chenming Zhu et.al.|[2606.06476](http://arxiv.org/abs/2606.06476)|null|
 |**2026-06-04**|**Detectability of secondary images from flares near Sgr A* with mock GRAVITY data**|Fengting Xie et.al.|[2606.06134](http://arxiv.org/abs/2606.06134)|null|
-|**2026-06-04**|**Imagine Before You Predict: Interleaved Latent Visual Reasoning for Video Event Prediction**|Tianxiang Jiang et.al.|[2606.05769](http://arxiv.org/abs/2606.05769)|null|
+|**2026-10-15**|**Imagine Before You Predict: Interleaved Latent Visual Reasoning for Video Event Prediction**|Tianxiang Jiang et.al.|[2606.05769](http://arxiv.org/abs/2606.05769)|null|
 |**2026-06-04**|**KV-Control: Parameter-Efficient K/V Injection for Trajectory-Controlled Text-to-Motion**|Tengjiao Sun et.al.|[2606.05624](http://arxiv.org/abs/2606.05624)|null|
 |**2026-06-03**|**Controllable Dynamic 3D Shape Generation via 3D Trajectories and Text**|Jaeyeong Kim et.al.|[2606.05162](http://arxiv.org/abs/2606.05162)|null|
 |**2026-06-03**|**NextMotionQA: Benchmarking and Judging Human Motion Understanding with Vision-Language Models**|Yong Cao et.al.|[2606.04773](http://arxiv.org/abs/2606.04773)|null|
@@ -434,7 +456,7 @@
 |**2026-05-31**|**ScriptHOI: Learning Scripted State Transitions for Open-Vocabulary Human-Object Interaction Detection**|Minh Anh Nguyen et.al.|[2605.05057](http://arxiv.org/abs/2605.05057)|null|
 |**2026-05-06**|**Contact Matrix: Enhancing Dance Motion Synthesis with Precise Interaction Modeling**|Xuhai Chen et.al.|[2605.04662](http://arxiv.org/abs/2605.04662)|null|
 |**2026-05-05**|**Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation**|Bin Wu et.al.|[2605.03849](http://arxiv.org/abs/2605.03849)|null|
-|**2026-05-11**|**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics**|Tencent HY Team et.al.|[2605.03652](http://arxiv.org/abs/2605.03652)|null|
+|**2026-05-11**|**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics**| Tencent HY Team et.al.|[2605.03652](http://arxiv.org/abs/2605.03652)|null|
 |**2026-05-03**|**TMD-Bench: A Multi-Level Evaluation Paradigm for Music-Dance Co-Generation**|Xiaoda Yang et.al.|[2605.01809](http://arxiv.org/abs/2605.01809)|null|
 |**2026-05-02**|**VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation**|Guotao Liang et.al.|[2605.01517](http://arxiv.org/abs/2605.01517)|null|
 |**2026-05-01**|**InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene**|Chaoyue Xing et.al.|[2605.01036](http://arxiv.org/abs/2605.01036)|null|
@@ -460,7 +482,7 @@
 |**2026-08-05**|**WorldMark: A Unified Benchmark Suite for Interactive Video World Models**|Xiaojie Xu et.al.|[2604.21686](http://arxiv.org/abs/2604.21686)|null|
 |**2026-05-27**|**Encoder-Free Human Motion Understanding via Structured Motion Descriptions**|Yao Zhang et.al.|[2604.21668](http://arxiv.org/abs/2604.21668)|null|
 |**2026-04-23**|**KD-CVG: A Knowledge-Driven Approach for Creative Video Generation**|Linkai Liu et.al.|[2604.21362](http://arxiv.org/abs/2604.21362)|null|
-|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
+|**2026-10-08**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
 |**2026-06-03**|**CityRAG: Stepping Into a City via Spatially-Grounded Video Generation**|Gene Chou et.al.|[2604.19741](http://arxiv.org/abs/2604.19741)|null|
 |**2026-04-21**|**MOSA: Motion-Guided Semantic Alignment for Dynamic Scene Graph Generation**|Xuejiao Wang et.al.|[2604.19631](http://arxiv.org/abs/2604.19631)|null|
 |**2026-04-21**|**TS-Attn: Temporal-wise Separable Attention for Multi-Event Video Generation**|Hongyu Zhang et.al.|[2604.19473](http://arxiv.org/abs/2604.19473)|null|
@@ -495,11 +517,12 @@
 |**2026-04-09**|**Coordinate-Based Dual-Constrained Autoregressive Motion Generation**|Kang Ding et.al.|[2604.08088](http://arxiv.org/abs/2604.08088)|null|
 |**2026-04-14**|**LPM 1.0: Video-based Character Performance Model**|Ailing Zeng et.al.|[2604.07823](http://arxiv.org/abs/2604.07823)|null|
 |**2026-04-08**|**XR-CareerAssist: An Immersive Platform for Personalised Career Guidance Leveraging Extended Reality and Multimodal AI**|N. D. Tantaroudas et.al.|[2604.06901](http://arxiv.org/abs/2604.06901)|null|
+|**2026-10-09**|**Assessing the Performance of CC2 for Excited-State Dynamics: A Benchmark Study with Pyrazine**|Rui-Hao Bi et.al.|[2604.05734](http://arxiv.org/abs/2604.05734)|null|
 |**2026-04-05**|**Solar-VLM: Multimodal Vision-Language Models for Augmented Solar Power Forecasting**|Hang Fan et.al.|[2604.04145](http://arxiv.org/abs/2604.04145)|null|
 |**2026-05-26**|**Next-Scale Autoregressive Models for Text-to-Motion Generation**|Zhiwei Zheng et.al.|[2604.03799](http://arxiv.org/abs/2604.03799)|null|
 |**2026-04-03**|**Do Robots Need Body Language? Comparing Communication Modalities for Legible Motion Intent in Human-Shared Spaces**|Jonathan Albert Cohen et.al.|[2604.03451](http://arxiv.org/abs/2604.03451)|null|
 |**2026-03-31**|**Diffusion Path Alignment for Long-Range Motion Generation and Domain Transitions**|Haichao Wang et.al.|[2604.03310](http://arxiv.org/abs/2604.03310)|null|
-|**2026-04-03**|**Exploring Motion-Language Alignment for Text-driven Motion Generation**|Ruxi Gu et.al.|[2604.02973](http://arxiv.org/abs/2604.02973)|null|
+|**2026-10-10**|**Exploring Motion-Language Alignment for Text-driven Motion Generation**|Ruxi Gu et.al.|[2604.02973](http://arxiv.org/abs/2604.02973)|null|
 |**2026-04-27**|**VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation**|Mengtian Li et.al.|[2604.02467](http://arxiv.org/abs/2604.02467)|null|
 |**2026-04-02**|**Generative World Renderer**|Zheng-Hui Huang et.al.|[2604.02329](http://arxiv.org/abs/2604.02329)|null|
 |**2026-04-02**|**Resonance4D: Frequency-Domain Motion Supervision for Preset-Free Physical Parameter Learning in 4D Dynamic Physical Scene Simulation**|Changshe Zhang et.al.|[2604.01994](http://arxiv.org/abs/2604.01994)|null|
@@ -515,7 +538,7 @@
 |**2026-03-29**|**TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets**|Zhixuan Liu et.al.|[2603.27520](http://arxiv.org/abs/2603.27520)|null|
 |**2026-03-28**|**LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model**|Quankai Gao et.al.|[2603.27449](http://arxiv.org/abs/2603.27449)|null|
 |**2026-03-28**|**SaSaSaSa2VA: 2nd Place of the 5th PVUW MeViS-Text Track**|Dengxian Gong et.al.|[2603.27241](http://arxiv.org/abs/2603.27241)|null|
-|**2026-03-28**|**MotionRFT: Unified Reinforcement Fine-Tuning for Text-to-Motion Generation**|Xiaofeng Tan et.al.|[2603.27185](http://arxiv.org/abs/2603.27185)|null|
+|**2026-10-09**|**MotionRFT: Unified Reinforcement Fine-Tuning for Text-to-Motion Generation**|Xiaofeng Tan et.al.|[2603.27185](http://arxiv.org/abs/2603.27185)|null|
 |**2026-03-27**|**Unified Number-Free Text-to-Motion Generation Via Flow Matching**|Guanhe Huang et.al.|[2603.27040](http://arxiv.org/abs/2603.27040)|null|
 |**2026-03-23**|**An Intelligent Framework for Real-Time Yoga Pose Detection and Posture Correction**|Chandramouli Haldar et.al.|[2603.26760](http://arxiv.org/abs/2603.26760)|null|
 |**2026-08-18**|**From Diffusion to Flow: Efficient Motion Generation in MotionGPT3**|Jaymin Bhan et.al.|[2603.26747](http://arxiv.org/abs/2603.26747)|null|
@@ -533,7 +556,7 @@
 |**2026-06-16**|**ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model**|Haichao Zhang et.al.|[2603.22281](http://arxiv.org/abs/2603.22281)|null|
 |**2026-06-03**|**GenSpan: Generation-Calibrated Motion Span Priors for Multi-Verb Video Corpus Moment Retrieval**|Yunzhuo Sun et.al.|[2603.22121](http://arxiv.org/abs/2603.22121)|null|
 |**2026-03-23**|**P-Flow: Prompting Visual Effects Generation**|Rui Zhao et.al.|[2603.22091](http://arxiv.org/abs/2603.22091)|null|
-|**2026-03-23**|**Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model**|SII-GAIR et.al.|[2603.21986](http://arxiv.org/abs/2603.21986)|null|
+|**2026-03-23**|**Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model**| SII-GAIR et.al.|[2603.21986](http://arxiv.org/abs/2603.21986)|null|
 |**2026-06-09**|**CoVR-R:Reason-Aware Composed Video Retrieval**|Omkar Thawakar et.al.|[2603.20190](http://arxiv.org/abs/2603.20190)|null|
 |**2026-03-20**|**Gesture2Speech: How Far Can Hand Movements Shape Expressive Speech?**|Lokesh Kumar et.al.|[2603.19831](http://arxiv.org/abs/2603.19831)|null|
 |**2026-03-20**|**Controllable Text-to-Motion Generation via Modular Body-Part Phase Control**|Minyue Dai et.al.|[2603.19795](http://arxiv.org/abs/2603.19795)|null|
@@ -585,7 +608,7 @@
 |**2026-06-23**|**From Local Corrections to Generalized Skills: Improving Neuro-Symbolic Policies with MEMO**|Benjamin A. Christie et.al.|[2603.04560](http://arxiv.org/abs/2603.04560)|null|
 |**2026-03-03**|**PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation**|Shang Wu et.al.|[2603.03505](http://arxiv.org/abs/2603.03505)|null|
 |**2026-03-27**|**MIBURI: Towards Expressive Interactive Gesture Synthesis**|M. Hamza Mughal et.al.|[2603.03282](http://arxiv.org/abs/2603.03282)|null|
-|**2026-03-03**|**Kling-MotionControl Technical Report**|Kling Team et.al.|[2603.03160](http://arxiv.org/abs/2603.03160)|null|
+|**2026-03-03**|**Kling-MotionControl Technical Report**| Kling Team et.al.|[2603.03160](http://arxiv.org/abs/2603.03160)|null|
 |**2026-03-09**|**Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers**|Youngjun Jun et.al.|[2603.02919](http://arxiv.org/abs/2603.02919)|null|
 |**2026-03-02**|**A z $\sim$1 galactic-scale outflow transversally mapped to $\sim$ 50 kpc through gravitational-arc tomography**|J. A. Hernández-Guajardo et.al.|[2603.01882](http://arxiv.org/abs/2603.01882)|null|
 |**2026-03-02**|**Non-verbal Real-time Human-AI Interaction in Constrained Robotic Environments**|Dragos Costea et.al.|[2603.01804](http://arxiv.org/abs/2603.01804)|null|
@@ -639,7 +662,7 @@
 |**2026-07-27**|**Clustering of emission line galaxies with IllustrisTNG -- II. cosmology challenge with anisotropic correlation functions and ELG-halo connections**|Ken Osato et.al.|[2602.01925](http://arxiv.org/abs/2602.01925)|null|
 |**2026-02-02**|**FastPhysGS: Accelerating Physics-based Dynamic 3DGS Simulation via Interior Completion and Adaptive Optimization**|Yikun Ma et.al.|[2602.01723](http://arxiv.org/abs/2602.01723)|null|
 |**2026-02-02**|**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**|Youliang Zhang et.al.|[2602.01538](http://arxiv.org/abs/2602.01538)|null|
-|**2026-02-01**|**T2M Mamba: Motion Periodicity-Saliency Coupling Approach for Stable Text-Driven Motion Generation**|Xingzu Zhan et.al.|[2602.01352](http://arxiv.org/abs/2602.01352)|null|
+|**2026-10-09**|**T2M Mamba: Motion Periodicity-Saliency Coupling Approach for Stable Text-Driven Motion Generation**|Xingzu Zhan et.al.|[2602.01352](http://arxiv.org/abs/2602.01352)|null|
 |**2026-03-31**|**JoyStreamer: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning**|Ruikui Wang et.al.|[2602.00702](http://arxiv.org/abs/2602.00702)|null|
 |**2026-05-11**|**Coarse-to-Real: Generative Rendering for Populated Dynamic Scenes**|Gonzalo Gomez-Nogales et.al.|[2601.22301](http://arxiv.org/abs/2601.22301)|null|
 |**2026-01-29**|**EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers**|John Flynn et.al.|[2601.22127](http://arxiv.org/abs/2601.22127)|null|
@@ -810,7 +833,7 @@
 |**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|
 |**2025-11-07**|**Dense Motion Captioning**|Shiyao Xu et.al.|[2511.05369](http://arxiv.org/abs/2511.05369)|null|
 |**2025-11-07**|**Mass determination of the three long-period Neptune- and sub-Neptune-sized planets transiting TOI-282**|A. Barone et.al.|[2511.05147](http://arxiv.org/abs/2511.05147)|null|
-|**2025-11-07**|**QuAnTS: Question Answering on Time Series**|Felix Divo et.al.|[2511.05124](http://arxiv.org/abs/2511.05124)|null|
+|**2026-10-12**|**QuAnTS: Question Answering on Time Series**|Felix Divo et.al.|[2511.05124](http://arxiv.org/abs/2511.05124)|null|
 |**2025-11-22**|**Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance**|Zhengxuan Li et.al.|[2511.05038](http://arxiv.org/abs/2511.05038)|null|
 |**2026-05-14**|**Insights on Numerical Damping Formulations Gained from Calibrating Two-Dimensional Ground Response Analyses at Downhole Array Sites**|Nishkarsha Dawadi et.al.|[2511.04074](http://arxiv.org/abs/2511.04074)|null|
 |**2025-11-06**|**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection**|Peiyao Wang et.al.|[2511.03997](http://arxiv.org/abs/2511.03997)|null|
@@ -1441,7 +1464,7 @@
 |**2021-02-12**|**Visual Navigation Among Humans with Optimal Control as a Supervisor**|Varun Tolani et.al.|[2003.09354](http://arxiv.org/abs/2003.09354)|null|
 |**2019-12-21**|**Learning Diverse Stochastic Human-Action Generators by Learning Smooth Latent Transitions**|Zhenyi Wang et.al.|[1912.10150](http://arxiv.org/abs/1912.10150)|**[link](https://github.com/zheshiyige/Learning-Diverse-Stochastic-Human-Action-Generators-by-Learning-Smooth-Latent-Transitions)**|
 
-<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
