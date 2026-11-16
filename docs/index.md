@@ -2,16 +2,22 @@
 layout: default
 ---
 
-## Updated on 2026.11.11
+## Updated on 2026.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text-to-Motion
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**SemRAG: Semantic-Guided Sentence-Level Retrieval-Augmented Sign Language Production**|Xiao Liu et.al.|[2611.18189](http://arxiv.org/abs/2611.18189)|null|
+|**2026-11-13**|**An In-Silico Audit of Topographic Organization in a Multimodal Brain-Response Model**|Jakub Strawa et.al.|[2611.18105](http://arxiv.org/abs/2611.18105)|null|
+|**2026-11-13**|**TelePhysica: Agentic Reconstruction of Physically Interactive Scenes**|Ruiqi Shu et.al.|[2611.18078](http://arxiv.org/abs/2611.18078)|null|
+|**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160](http://arxiv.org/abs/2611.17160)|null|
+|**2026-11-12**|**TokenStream: Multi-Subject Personalized Video Generation with Token-wise LoRA and Guided Attention**|Hung Nguyen et.al.|[2611.16897](http://arxiv.org/abs/2611.16897)|null|
+|**2026-11-11**|**CFGComposer: Compositional Audio-Text-to-Motion Generation via Copula Score Correction**|Pengyang Shi et.al.|[2611.15101](http://arxiv.org/abs/2611.15101)|null|
 |**2026-11-10**|**The expected number of holes of the planar Wiener sausage**|Tristan Guillaume et.al.|[2611.14500](http://arxiv.org/abs/2611.14500)|null|
 |**2026-11-10**|**Few-Step Streaming Video Generation via Condition Shifting**|Deyuan Liu et.al.|[2611.14033](http://arxiv.org/abs/2611.14033)|null|
-|**2026-11-10**|**FlashMotion: Ultra-Fast Long-Term 3D Motion Generation**|Kaixing Yang et.al.|[2611.13626](http://arxiv.org/abs/2611.13626)|null|
+|**2026-11-11**|**FlashMotion: Ultra-Fast Long-Term 3D Motion Generation**|Kaixing Yang et.al.|[2611.13626](http://arxiv.org/abs/2611.13626)|null|
 |**2026-11-10**|**Rhythmic-Semantic Co-Speech Gestures for Emotional Dialogue in Robots**|Christian Arzate Cruz et.al.|[2611.13472](http://arxiv.org/abs/2611.13472)|null|
 |**2026-11-08**|**Kinora: A Versioned Workflow for Text-to-Motion Generation, Robot Retargeting, and Interactive Validation**|Fangcheng Jin et.al.|[2611.11601](http://arxiv.org/abs/2611.11601)|null|
 |**2026-11-08**|**Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation**|Yunheng Wang et.al.|[2611.11554](http://arxiv.org/abs/2611.11554)|null|
@@ -82,7 +88,7 @@ layout: default
 |**2026-10-16**|**VTrajEmbed: Aligning Text with Video Object Trajectories via Spatiotemporal Embeddings**|Ruizhi Chen et.al.|[2610.22842](http://arxiv.org/abs/2610.22842)|null|
 |**2026-10-15**|**OmniXRef: A Unified Framework for Multimodal Multi-Reference Video Editing**|Xiaoyan Cong et.al.|[2610.22744](http://arxiv.org/abs/2610.22744)|null|
 |**2026-10-14**|**Geodesics in Black-Hole Spacetimes: A Qualitative Classification Using Vieta's Formulae**|Oliver F. Piattella et.al.|[2610.22399](http://arxiv.org/abs/2610.22399)|null|
-|**2026-10-15**|**Convective Oscillations of Cosmic Rays**|Yiran Zhang et.al.|[2610.21863](http://arxiv.org/abs/2610.21863)|null|
+|**2026-11-13**|**Convective Oscillations of Cosmic Rays**|Yiran Zhang et.al.|[2610.21863](http://arxiv.org/abs/2610.21863)|null|
 |**2026-10-15**|**Edit4D: Editable 4D Scene Generation with Textual Control**|Chanwoo Kim et.al.|[2610.21668](http://arxiv.org/abs/2610.21668)|null|
 |**2026-10-22**|**TRACE: Typed Reference-Aware Conversational Editing for Humanoid Motion Diffusion**|Zejian Kang et.al.|[2610.21515](http://arxiv.org/abs/2610.21515)|null|
 |**2026-10-15**|**LAO+: Focused, Multi-Replica Accelerated Orthogonal Sampling for Robust Binding Free Energy Predictions**|Narjes Ansari et.al.|[2610.20436](http://arxiv.org/abs/2610.20436)|null|
@@ -656,7 +662,7 @@ layout: default
 |**2026-03-16**|**Edit2Interp: Adapting Image Foundation Models from Spatial Editing to Video Frame Interpolation with Few-Shot Learning**|Nasrin Rahimi et.al.|[2603.15003](http://arxiv.org/abs/2603.15003)|null|
 |**2026-03-30**|**Mind-of-Director: Multi-modal Agent-Driven Film Previsualization via Collaborative Decision-Making**|Shufeng Nan et.al.|[2603.14790](http://arxiv.org/abs/2603.14790)|null|
 |**2026-06-28**|**LatSearch: Latent Reward-Guided Search for Faster Inference-Time Scaling in Video Diffusion**|Zengqun Zhao et.al.|[2603.14526](http://arxiv.org/abs/2603.14526)|null|
-|**2026-03-14**|**MotionCFG: Boosting Motion Dynamics via Stochastic Concept Perturbation**|Byungjun Kim et.al.|[2603.14073](http://arxiv.org/abs/2603.14073)|null|
+|**2026-11-10**|**MotionCFG: Boosting Motion Dynamics via Semantic Motion Sharpening**|Byungjun Kim et.al.|[2603.14073](http://arxiv.org/abs/2603.14073)|null|
 |**2026-03-14**|**UniVid: Pyramid Diffusion Model for High Quality Video Generation**|Xinyu Xiao et.al.|[2603.13739](http://arxiv.org/abs/2603.13739)|null|
 |**2026-03-13**|**ActionPlan: Future-Aware Streaming Motion Synthesis via Frame-Level Action Planning**|Eric Nazarenus et.al.|[2603.13500](http://arxiv.org/abs/2603.13500)|null|
 |**2026-03-18**|**Event-Driven Video Generation**|Chika Maduabuchi et.al.|[2603.13402](http://arxiv.org/abs/2603.13402)|null|
